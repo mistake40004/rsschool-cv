@@ -1,1 +1,1 @@
-# rsschool-cv
+https://mistake40004.github.io/rsschool-cv/cv
