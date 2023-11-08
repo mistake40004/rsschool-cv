@@ -1,1 +1,1 @@
-git@github.com:mistake40004/rsschool-cv.git
+https://github.com/mistake40004/rsschool-cv.git
